@@ -55,7 +55,9 @@ task-board/
 │
 ├── frontend/
 │   ├── dist/
-│   ├── src
+│   ├── src/
+|   |   ├── components/
+|   |   ├── services/
 |   ├── index.html
 |   ├── package.json
 |   ├── postcss.config.js
